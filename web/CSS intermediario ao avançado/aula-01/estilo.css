@@ -1,0 +1,34 @@
+/*{
+    border: 1px solid black;
+}
+h1{
+    color: green;
+}*/
+/*.verde {
+    color: green;
+}
+p.verde{
+    color: green;
+}
+#cabeçalho {
+    border: 1px solid blue;
+}*/
+
+/* Seletor Filho
+li>a {
+    color: red;
+    text-decoration: none;
+}*/
+
+/*Seletor Descendente*/
+/*div a{
+    color: green;
+}*/
+/* Seletor Adjacente
+h1+p{
+    color: red;
+}*/
+/*Seletor de Irmão Geral*/
+h1~p{
+    color: pink;
+}
