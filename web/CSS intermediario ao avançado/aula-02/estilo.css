@@ -1,4 +1,18 @@
-body{
+/*#pagina p{
+    color: red ;
+}
+#pagina p{
+    color: blue;
+}*/
+*{
     color: red;
-    font-size: 5px;
+}
+h2{
+    color: blue;
+}
+h2.verde{
+    color: green;
+}
+h2#amarelo{
+    color: yellow;
 }
