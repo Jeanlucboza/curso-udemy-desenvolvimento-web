@@ -22,10 +22,17 @@ ul a{
     text-decoration: none;
     text-indent: 40px;
     line-height: 40px;
-    background: url(Imagens/menu.png) left bottom;
-    border: 1px solid red;
+    background:#f7b600 url(Imagens/menu.png) left bottom;
 }
 a:hover{
     background-position: right bottom;
+    background-color: #f99200;
+    color: #fff;
+}
+#home #navegação .home a,
+#sobre #navegação .sobre a,
+#serviços #navegação .serviços a {
+    background-position: right bottom;
+    background-color: #f99200;
     color: #fff;
 }
