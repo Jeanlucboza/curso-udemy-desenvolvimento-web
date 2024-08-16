@@ -5,10 +5,12 @@ body{
 }
 #container{
     border: 1px solid red;
-    width: 85%;
+    width: 960px;
     margin: 0 auto;
-    background: #fff;
+    background: #fff url(imagens/coluna.png) repeat-y left top;
     min-width: 720px;
+    max-width: 1280px;
+
 }
 #marca{
     height: 200px;
